@@ -4,10 +4,7 @@
 <!-- About Game Section -->
 # The Easiest Game
 
-<p>
-    A game powered by JavaFx inspired by 
-    <a href=https://www.crazygames.com/game/worlds-hardest-game>The Hardest Game</a> that provides the main functions you'd expect from a game such as leaderboards, shop to spend in game currrency, and multiple game levels.
-</p>
+A game powered by JavaFx inspired by [The Hardest Game](https://www.crazygames.com/game/worlds-hardest-game) that provides the main functions you'd expect from a game such as leaderboards, shop to spend in game currrency, and multiple game levels.
 
 <div align=center>
     <img alt=Home src=/images/home.png width=450px />
@@ -77,3 +74,20 @@ What I personally contributed to this project.
 <img alt=Settings src=/images/settings.png width=450px />
 
 * Settings gives player the ability to change the soundtrack and disable sound effects.
+
+
+<!-- Authors section -->
+## Authors
+* [Wania Sharif](https://github.com/wania-sharif)
+* [Cameron Mcrae](https://github.com/cmcrae1989)
+* [George Secen](https://github.com/georgesecen)
+
+
+<!-- License section -->
+## License
+<!-- This app is open-sourced software licensed under the [MIT license](https://choosealicense.com/licenses/mit/). -->
+
+
+<!-- Acknowledgements section -->
+## Acknowledgements
+Special thanks to Câi Filiault for his lessons, advice and guidance.
