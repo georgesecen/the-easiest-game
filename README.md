@@ -56,3 +56,24 @@
 2. Remove all values in timeLeaderboard.txt to reset the leaderboards.
 
 
+<!-- My contributions section -->
+## My Contributions
+What I personally contributed to this project.
+
+### Shop And Coin Collection
+<img alt=Shop src=/images/shop.png width=450px />
+
+* Shop which allows player to purchase character skins using the coins they have acquired during gameplay. 
+
+* Data persistence so the amount of coins collected is saved.
+
+### Leaderboards and Time Tracking
+<img alt=Leaderboards src=/images/leaderboards.png width=450px />
+
+* Leaderboards which displays the top ten fastest game completion times. 
+* Time tracking system to time how long it took player to complete the game, and saves the times.
+
+### Settings
+<img alt=Settings src=/images/settings.png width=450px />
+
+* Settings gives player the ability to change the soundtrack and disable sound effects.
