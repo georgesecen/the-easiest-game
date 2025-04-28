@@ -14,12 +14,15 @@
     <img alt=Home src=/images/gameplay.png width=450px />
 </div>
 
+
 <!-- Technologies used section -->
 ## Built With
 
 * JavaFx
 * Java
 * CSS
+* Gradle
+
 
 <!-- Features section -->
 ## Features
@@ -37,5 +40,19 @@
     * Skins purchased from the shop.
 
 
+<!-- Getting started section -->
+## Getting Started
+
+### Prerequisites
+* Gradle version 17.0.10
+
+
+### Installation
+1. Clone the repo:
+   ```sh
+   git clone https://github.com/georgesecen/the-easiest-game.git
+   ```
+2. Set value in coinCount.txt to 0 to reset player coins.
+2. Remove all values in timeLeaderboard.txt to reset the leaderboards.
 
 
